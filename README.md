@@ -1,6 +1,6 @@
 # jpa01-davidjia-student
 
-Deployed at: https://jpa01-davidjia.dokku-11.cs.ucsb.edu
+Deployed at: https://jpa01-davidjia-student.dokku-11.cs.ucsb.edu
 
 
 # About this repo
